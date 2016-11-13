@@ -1,0 +1,28 @@
+* {
+  outline: 1px dashed green;
+  text-align: center;
+}
+
+a {
+  color: #3F7F1F;
+  background-color: black;
+}
+
+ul {
+  list-style: none;
+}
+.first-anchor {
+  background-color: red;
+  color: white;
+}
+
+.second-anchor{
+  background-color: green;
+  color: white;
+}
+
+.divClass{
+  outline: 1px solid blue;
+  background-color: yellow;
+  color: red;
+}

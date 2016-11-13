@@ -1,0 +1,73 @@
+
+/*
+body {
+    font-family: tahoma, helvetica, arial, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    background: #000;
+    color: #ddd4d4;
+    padding-top: 12px;
+    line-height: 2;
+    background-image: url('img/beanback.jpg');
+    background-repeat: no-repeat=
+    background-attachment: fixed;
+    background-size: 100%;
+    opacity: 0.8;
+    filter:alpha(opacity=80);
+}
+*/
+
+body {
+ background-image: url("http://www.getstronghealth.com/wp-content/uploads/2016/11/pexels-photo-medium.jpg");
+ background-repeat: no repeat;
+ background-size: cover;
+ background-attachment: fixed;
+}
+
+header {
+  text-align: center;
+  background-color: #c92727;
+}
+center-div { margin: auto; position: absolute; top: 50%; left: 50%; bottom: 0; right: 0; transform: translate(-50% -50%); }
+
+footer {
+  background-color: #C92727;
+  text-align: center;
+}
+
+.bannerDiv {
+  display:inline;
+  width: 10%;
+}
+.headline {
+  padding: 4px;
+  font-family: Shrikhand;
+}
+
+
+.subheadline {
+  padding: 4px;
+  font-family: Shrikhand;
+}
+
+
+.mapImgDiv {
+  padding: 10px;
+  font-family: Shrikhand;
+}
+
+.mapDiv {
+  background-color: #C92727;
+  text-align: center;
+
+}
+.navDiv {
+  background-color: #C92727;
+}
+
+.navClass {
+  text-align: center;
+}
+.navUlClass {
+  list-style: none;
+}
